@@ -134,8 +134,8 @@ classDiagram
         Connection conn
         addAkun()
         addCard()
-        getPersonal()
-        gertBisnis()
+        getPersonals()
+        getBisniss()
         nextID()
         nextCCN()
     }
@@ -152,6 +152,6 @@ classDiagram
 
     class DBHelper{
         getConnection()
-        getConnection(STring driver)
+        getConnection(String driver)
         createTable()
     }
