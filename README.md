@@ -11,6 +11,7 @@ Anggota Kelompok:
  adalah sistem yang digunakan untuk melakukan transaksi pembayaran. terdapat dua jenis akun yaitu personal dan bisnis. satu akun dapat memiliki satu atau lebih kartu.
 
 ## Desain
+>Untuk melihat diagram, install plugin mermaid-diagram di https://github.com/Redisrupt/mermaid-diagrams
 ### Class Diagram
 ```mermaid
 classDiagram
