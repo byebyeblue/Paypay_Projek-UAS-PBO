@@ -1,5 +1,10 @@
 # Paypay_Projek-UAS-PBO
 Projek Final untuk memenuhi UAS mata kuliah Pemrograman Berorientasi Objek
+Anggota Kelompok:
+1. Aprila Dwi Utami      (1917051012)
+2. Nur Ayu Octarina      (1917051039)
+3. Fanirizki Sofiyana    (1917051050)
+
 
 # Pay Pay System
 >Sistem PayPay
@@ -130,7 +135,8 @@ classDiagram
         addCard()
         getPersonal()
         gertBisnis()
-        nextAkunID()
+        nextID()
+        nextCCN()
     }
 
     class PaypayController{
